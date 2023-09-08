@@ -1,3 +1,3 @@
 # myproject
 This is my first Git Repository
-Author-Preetiragdal
+Author-Preetirangdal
